@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
 import Switch from "react-switch";
-import Toggle from "react-toggle";
-import "react-toggle/style.css"; // for ES6 modules
+import Toggle from "react-toggle-component";
+
 import "./react-switchExample.js";
 
 import "./styles.css";
